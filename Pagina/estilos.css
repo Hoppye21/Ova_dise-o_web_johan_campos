@@ -1,0 +1,32 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #003366;
+}
+frame {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	float: none;
+	height: auto;
+	width: auto;
+	border-top-color: #003366;
+	border-right-color: #003366;
+	border-bottom-color: #003366;
+	border-left-color: #003366;
+	page-break-before: auto;
+	page-break-after: auto;
+}
+.Titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #003366;
+}
